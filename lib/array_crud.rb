@@ -24,6 +24,8 @@ end
 
 def remove_element_from_start_of_array(array)
   manaan_planet = planets.shift
+  p planets
+  p manaan_planet
 end
 
 def retrieve_element_from_index(array, index_number)
