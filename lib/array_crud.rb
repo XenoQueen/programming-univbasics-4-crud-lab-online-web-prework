@@ -12,7 +12,7 @@ def add_element_to_end_of_array(array, element)
 end1
 
 def add_element_to_start_of_array(array, element)
-  planets >> ["Nar Shadaa"]
+  planets.unshift ["Nar Shadaa"]
   p planets
 end
 
