@@ -30,10 +30,13 @@ end
 
 def retrieve_element_from_index(array, index_number)
   planets [0]
-  #
+  #=> "Manaan"
   planets [1]
+  #=> "Kashyyk"
   planets [2]
+  #=> "Coruscant"
   planets [3]
+  #=> "Taris"
 end
 
 def retrieve_first_element_from_array(array)
