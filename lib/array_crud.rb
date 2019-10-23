@@ -1,15 +1,15 @@
 def create_an_empty_array
   []
-  
 end
 
 def create_an_array
-  
+  planets = ["Manaan", "Kashyyk", "Coruscant", "Taris"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
-end
+  planets << ["Korriban"]
+  p planets
+end1
 
 def add_element_to_start_of_array(array, element)
   
