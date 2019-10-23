@@ -29,7 +29,10 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  planets [0]
+  planets [1]
+  planets [2]
+  planets [3]
 end
 
 def retrieve_first_element_from_array(array)
